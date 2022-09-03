@@ -21,7 +21,7 @@ Por isso, a nossa primeira fase do Processo Seletivo 2022.1 será um desafio pr�
 - Estudar a lista de projetos disponíveis e escolher um desafio 
 - Reunir-se com o seu grupo para resolver o case
 - Estudar o necessário para resolver o desafio
-- Enviar até 14/09 (23h59) o arquivo (.py ou .ipynb) do desafio para algum representante da entidade
+- Enviar até 16/09 (23h59) o arquivo (.py ou .ipynb) do desafio para algum representante da entidade
 
 Vale lembrar que os projetos serão avaliados conforme a dedicação e a profundidade no desafio escolhido!
 
