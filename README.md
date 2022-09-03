@@ -1,4 +1,4 @@
-![foto](https://drive.google.com/file/d/1ZbjMx6AZG7oxBTVmpPmifY0nNWP3EzwY/view?usp=sharing)
+![foto](https://drive.google.com/uc?export=view&id=1ZbjMx6AZG7oxBTVmpPmifY0nNWP3EzwY)
 
 # Processo seletivo - Primeira fase
 
