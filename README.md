@@ -189,8 +189,8 @@ Agora que você já escolheu o seu desafio, está na hora de estudar e aprender 
     
 ### Materiais
 - Instalando Python: https://www.youtube.com/watch?v=VuKvR1J2LQE
-    * Aprenda Python em 10 min:https://www.youtube.com/watch?v=Q8eajxcS6dQ
-- Nesse curso ele vai codar usando um site para te ajudar a aprender
+- Aprenda Python em 10 min:https://www.youtube.com/watch?v=Q8eajxcS6dQ
+    * Nesse curso ele vai codar usando um site para te ajudar a aprender
 - Curso básico de Python: https://www.youtube.com/watch?v=rfscVS0vtbw
     * Em inglês com legendas em português ou inglês
 - Curso intensivo de Python: https://www.youtube.com/watch?v=GPVsHOlRBBI
