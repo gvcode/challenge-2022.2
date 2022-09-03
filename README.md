@@ -27,17 +27,6 @@ Vale lembrar que os projetos serão avaliados conforme a dedicação e a profund
 
 Bom projeto!
 
-
-## Programa de reversão de string
-
-Este programa exigirá que você pegue uma entrada de string (matriz de caracteres) de um usuário e reorganize a string na ordem inversa, exibindo a saída para o usuário. A primeira abordagem óbvia será simplesmente inverter todos os caracteres da string, mas você pode aprimorar ainda mais este projeto alterando vários atributos do programa:
-
--   Pegue uma frase como entrada e inverta cada palavra na frase, mantendo as posições das palavras iguais
--   Pegue uma frase como entrada e inverta a ordem em que as palavras aparecem, sem alterar o conteúdo das próprias palavras
-
-Da mesma forma, muitas outras variações de manipulação de strings podem ser implementadas nesta atribuição. No final dele, você pode até mesmo criar um programa baseado em menu onde os usuários podem selecionar que tipo de manipulação de string desejam executar em suas entradas fornecidas.
-
-
 ## Pedra, Papel, Tesoura
 Rock, Paper, Scissors é um jogo conhecido para usar em seus projetos Python. Existem muitas maneiras de implementar este jogo em código com base em seu conhecimento de Python. Devido ao elemento aleatório anexado ao jogo, você obviamente terá que usar uma função aleatória para determinar a mão de cada jogador. Você pode começar a desenvolver este jogo com um oponente padrão da CPU e com movimentos aleatórios, e então, você pode aumentar o nível de complexidade criando uma opção para dois jogadores humanos irem um contra o outro. De qualquer forma, o fator criativo envolvido no design do jogo permitirá uma tonelada de flexibilidade em sua abordagem. Certifique-se de adicionar opções para novas tentativas e rastreamento de pontuação para aprimorar a experiência geral.
 
