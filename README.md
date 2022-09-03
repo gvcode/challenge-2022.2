@@ -1,9 +1,9 @@
-![foto](https://drive.google.com/uc?export=view&id=1ZbjMx6AZG7oxBTVmpPmifY0nNWP3EzwY)
+<a href="url"><img src="https://drive.google.com/uc?export=view&id=17s3bmXAoTIdn3X0Bq9MZ9OBJNQPiR_pN" align="center" height="180" width="700" ></a>
 
-# Processo seletivo - Primeira fase
+# PS GVCode - Segunda fase
 
 Olá!
-Se você chegou até aqui parabéns pela iniciativa! Nós já entendemos que você tem um interesse por programação e data science, por isso agora queremos ver como você aprende e se desenvolve enfrentando desafios.
+Parabéns por ter chego até aqui! Nós já entendemos que você tem um interesse por programação e data science, por isso agora queremos ver como você aprende e se desenvolve enfrentando desafios.
 Então, aqui você vai encontrar tudo o que você precisa para essa fase do processo. Nós dividimos esse documento em três partes:
 
 - Como vai ser a estrutura do desafio
@@ -21,7 +21,7 @@ Por isso, a nossa primeira fase do Processo Seletivo 2022.1 será um desafio pr�
 - Estudar a lista de projetos disponíveis e escolher um desafio 
 - Reunir-se com o seu grupo para resolver o case
 - Estudar o necessário para resolver o desafio
-- Enviar até 23/03 o arquivo do desafio para o administrador do grupo em que você foi encaixado
+- Enviar até 14/09 (23h59) o arquivo (.py ou .ipynb) do desafio para algum representante da entidade
 
 Vale lembrar que os projetos serão avaliados conforme a dedicação e a profundidade no desafio escolhido!
 
