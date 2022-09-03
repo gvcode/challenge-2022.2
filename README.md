@@ -202,6 +202,6 @@ Agora que você já escolheu o seu desafio, está na hora de estudar e aprender 
 ### Dicas
 - Nós somos uma entidade colaborativa, isso quer dizer que não tem ninguém competindo com você. Ou seja, não temos limites de vagas e a sua candidatura não é comparativa. Então, se você apresentar bons resultados no case e estiver alinhado com a cultura do GVCode, você ta dentro.
 - Por isso, estimulamos fortemente que vocês colaborem entre si, inclusive entre duplas, temos um grupo no whats para isso.
-- Ah, não tente somente copiar e colar o código da internet, vamos pedir que você explique a lógica por trás da sua resolução, então nada de colar
+- Ah, não tente somente copiar e colar o código da internet, vamos pedir que você explique a lógica por trás da sua resolução, então nada de colar.
 - Sinta-se a vontade para chamar o pessoal do GVCode para tirar dúvidas. Iremos ajudar sempre que possível, porém não podemos resolver o case para você.
 - Por fim: DIVIRTA-SE!! Programação é para ser diversido e desafiador, então esperamos que além do desafio, vocês tenha uma experiência bacana.
